@@ -329,6 +329,10 @@
 
 - ![ER图](https://my-oss-pic.oss-cn-nanjing.aliyuncs.com/img/202303291210034.jpg)
 
+##### 4.1.3 用例图
+
+- <img src="https://thdlrt.oss-cn-beijing.aliyuncs.com/image-20230330112923376.png" alt="image-20230330112923376" style="zoom: 50%;" />
+
 #### 4.2 一层设计
 
 ##### 4.2.1 方案选型
