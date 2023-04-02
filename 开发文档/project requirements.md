@@ -13,6 +13,7 @@
 | 2023.3.29 | v3   | 增加了图片，内容扩充             | thdlrt   |        |
 | 2023.3.29 | v4   | 增加了图片                       | aron     |        |
 | 2023.3.29 | v5   | 修订一些语法错误和排版错误 | Eric     |        |
+| 2023.3.30 | v6 | 添加用例图 | thdlrt | |
 
 
 ### 1. 简介
@@ -354,6 +355,10 @@
 ##### 4.1.2 结构化实体关系图
 
 ![ER图](https://my-oss-pic.oss-cn-nanjing.aliyuncs.com/img/202303291210034.jpg)
+
+##### 4.1.3 用例图
+
+- <img src="https://thdlrt.oss-cn-beijing.aliyuncs.com/image-20230330112923376.png" alt="image-20230330112923376" style="zoom: 50%;" />
 
 #### 4.2 一层设计
 
